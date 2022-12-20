@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\bin\Debug\net6.0\Convert.To.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\bin\Debug\net6.0\Convert.To.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\bin\Debug\net6.0\Convert.To.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\bin\Debug\net6.0\Convert.To.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\bin\Debug\net6.0\Convert.To.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\refint\Convert.To.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\Convert.To.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\Convert.To\Convert.To\obj\Debug\net6.0\ref\Convert.To.dll

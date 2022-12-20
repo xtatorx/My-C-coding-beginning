@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\bin\Debug\net6.0\GP2.4CounterControlledLoops.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\bin\Debug\net6.0\GP2.4CounterControlledLoops.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\bin\Debug\net6.0\GP2.4CounterControlledLoops.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\bin\Debug\net6.0\GP2.4CounterControlledLoops.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\bin\Debug\net6.0\GP2.4CounterControlledLoops.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\refint\GP2.4CounterControlledLoops.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\GP2.4CounterControlledLoops.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.4\GP2.4CounterControlledLoops\GP2.4CounterControlledLoops\obj\Debug\net6.0\ref\GP2.4CounterControlledLoops.dll

@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\bin\Debug\net6.0\GP2.2 Decision Making.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\bin\Debug\net6.0\GP2.2 Decision Making.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\bin\Debug\net6.0\GP2.2 Decision Making.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\bin\Debug\net6.0\GP2.2 Decision Making.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\bin\Debug\net6.0\GP2.2 Decision Making.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\refint\GP2.2 Decision Making.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\GP2.2 Decision Making.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 2\GP2.2\GP2.2 Decision Making\GP2.2 Decision Making\obj\Debug\net6.0\ref\GP2.2 Decision Making.dll

@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\bin\Debug\net6.0\PA1_7Accounts.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\bin\Debug\net6.0\PA1_7Accounts.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\bin\Debug\net6.0\PA1_7Accounts.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\bin\Debug\net6.0\PA1_7Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\bin\Debug\net6.0\PA1_7Accounts.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\refint\PA1_7Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\PA1_7Accounts.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\PerformanceAssesment1.7\PA1_7Accounts\PA1_7Accounts\obj\Debug\net6.0\ref\PA1_7Accounts.dll

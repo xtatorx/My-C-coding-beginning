@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\bin\Debug\net6.0\MyApplication.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\bin\Debug\net6.0\MyApplication.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\bin\Debug\net6.0\MyApplication.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\bin\Debug\net6.0\MyApplication.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\bin\Debug\net6.0\MyApplication.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\refint\MyApplication.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Examples\MyApplication\MyApplication\obj\Debug\net6.0\ref\MyApplication.dll

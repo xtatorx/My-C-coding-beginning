@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\bin\Debug\net6.0\InClass1_2.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\bin\Debug\net6.0\InClass1_2.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\bin\Debug\net6.0\InClass1_2.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\bin\Debug\net6.0\InClass1_2.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\bin\Debug\net6.0\InClass1_2.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\refint\InClass1_2.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\InClass1_2.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\InClass1_2\InClass1_2\obj\Debug\net6.0\ref\InClass1_2.dll

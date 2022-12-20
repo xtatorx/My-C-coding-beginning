@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\bin\Debug\net6.0\Accounts.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\bin\Debug\net6.0\Accounts.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\bin\Debug\net6.0\Accounts.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\bin\Debug\net6.0\Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\bin\Debug\net6.0\Accounts.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\refint\Accounts.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\Accounts.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.5\Accounts\Accounts\obj\Debug\net6.0\ref\Accounts.dll

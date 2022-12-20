@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\bin\Debug\net6.0\GuidedPractice 1.4.exe
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\bin\Debug\net6.0\GuidedPractice 1.4.deps.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\bin\Debug\net6.0\GuidedPractice 1.4.runtimeconfig.json
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\bin\Debug\net6.0\GuidedPractice 1.4.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\bin\Debug\net6.0\GuidedPractice 1.4.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.AssemblyInfoInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.AssemblyInfo.cs
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\refint\GuidedPractice 1.4.dll
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.pdb
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\GuidedPractice 1.4.genruntimeconfig.cache
+C:\Users\Brian\OneDrive - ECPI University\Desktop\C# CIS214\Week 1\GuidedPractice 1.4\GuidedPractice 1.4\obj\Debug\net6.0\ref\GuidedPractice 1.4.dll
